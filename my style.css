@@ -1,0 +1,13 @@
+h1 {
+    font-size: large;
+    color: gold;
+    border: 2px dotted blue
+;
+}
+.randomfeat{
+    font-kerning: auto;
+    font-display: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    vertical-align: middle;
+    forced-color-adjust: auto;
+}
